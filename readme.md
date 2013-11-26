@@ -23,7 +23,7 @@ You can put the dotfiles folder anywhere, but it's important to run the bootstra
 
 * Clone the repo:
 
-    `git clone git@github.com:ActionScripted/dotfiles.git ~/.dotfiles`
+    `git clone https://github.com/ActionScripted/dotfiles.git ~/.dotfiles`
 
 
 * Change into the dotfiles folder:
