@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/michael/Desktop/Scripts Menu.aip'
+let g:netrw_dirhist_2='/Users/michael/Library/Internet Plug-Ins/fbplugin_1_0_3.plugin'
+let g:netrw_dirhist_3='/Users/michael/Edification/python/framer/reddit-reddit-13430c5/r2/r2/lib/migrate'
+let g:netrw_dirhist_4='/Users/michael/Desktop/Misc/Gallery Fifty/.git'
+let g:netrw_dirhist_5='/Users/michael/Desktop/Misc/MyNorth.com/Best Of/bestof/templates/voting'
+let g:netrw_dirhist_6='/Users/michael/Desktop/Misc/MyNorth.com/Best Of/bestof/voting'
+let g:netrw_dirhist_7='/Users/michael/Desktop/Misc/Northern Michigan Spa Tour/.git'
+let g:netrw_dirhist_8='/Users/michael/Desktop/Misc/Sleeping Bear Gallery/.git'
+let g:netrw_dirhist_9='/Users/michael/Desktop/GBSpotlightImporter.mdimporter'
