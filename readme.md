@@ -23,16 +23,16 @@ You can put the dotfiles folder anywhere, but it's important to run the bootstra
 
 * Clone the repo:
 
-    git clone git@github.com:ActionScripted/dotfiles.git ~/.dotfiles
+    `git clone git@github.com:ActionScripted/dotfiles.git ~/.dotfiles`
 
 
 * Change into the dotfiles folder:
 
-    cd ~/.dotfiles
+    `cd ~/.dotfiles`
 
 * Run the boostrap script:
 
-    ./boostrap.sh
+    `./boostrap.sh`
 
 
 Uninstalling / Reverting
@@ -48,8 +48,8 @@ First, breathe. Everything is backed up to ~/.dotfiles.backup
 Changelog
 ---
 
-[[2013/11/26]] -- copying a stripped-down seed version back to GitHub (public)
-[[2013/09/09]] -- moved to BitBucket from GitHub
+* [[2013/11/26]] -- copying a stripped-down seed version back to GitHub (public)
+* [[2013/09/09]] -- moved to BitBucket from GitHub
 
 
 License
